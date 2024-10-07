@@ -5,10 +5,10 @@ import { gsap } from 'gsap';
 const EarthCanvas = ({ 
   toggleSidebar, 
   handleZoom, 
-  // earthTextureUrl = 'src/assets/earthmap1k.jpg', 
+  // earthTextureUrl = 'src/assets/earthmap1k.png', 
   cloudTextureUrl = 'src/assets/earthCloud.png',
   galaxyTextureUrl = 'src/assets/galaxy.png',
-  earthTextureUrl = 'src/assets/2k_earth_daymap.jpg',
+  earthTextureUrl = 'src/assets/2k_earth_daymap.png',
   lightIntensity = 100,
   initialCameraPositionZ = 10,
   rotationSpeed = 0.0002,
