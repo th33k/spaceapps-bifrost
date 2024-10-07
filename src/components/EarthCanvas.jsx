@@ -6,7 +6,7 @@ const EarthCanvas = ({
   toggleSidebar, 
   handleZoom, 
   // earthTextureUrl = 'src/assets/earthmap1k.png', 
-  cloudTextureUrl = 'src/assets/earthCloud.png',
+  cloudTextureUrl = 'https://raw.githubusercontent.com/th33k/spaceapps-bifrost/refs/heads/main/src/assets/earthCloud.png',
   galaxyTextureUrl = 'src/assets/galaxy.png',
   //earthTextureUrl = 'src/assets/2k_earth_daymap.png',
   earthTextureUrl = 'https://raw.githubusercontent.com/th33k/spaceapps-bifrost/refs/heads/main/src/assets/2k_earth_daymap.png',
